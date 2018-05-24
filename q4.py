@@ -1,9 +1,8 @@
-# -*- coding: utf-8 -*-
 """
-Created on Fri May  4 13:16:56 2018
+Question 4
+Practical Worksheet 2018-19
+"""
 
-@author: amity
-"""
 n = input("What's your name? ")
 a = input("And your age? ")
 c = input("What class are you in? ")
