@@ -1,9 +1,8 @@
-# -*- coding: utf-8 -*-
 """
-Created on Fri May  4 13:41:31 2018
+Question 6
+Practical Worksheet 2018-19
+"""
 
-@author: amity
-"""
 f = int(input("Enter first number: "))
 s = int(input("Enter second number: "))
 o = str(input("Enter operator: "))
