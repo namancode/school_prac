@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu May 10 13:17:22 2018
-
-@author: amity
+Question 18
+Practical Worksheet 2018-19
 """
 
 s = int(input("Speed: "))
