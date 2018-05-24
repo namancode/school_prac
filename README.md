@@ -1,2 +1,2 @@
-# school_prac
+# School Practical Assignments
 Computer Science class practicals repository
