@@ -1,12 +1,10 @@
-# -*- coding: utf-8 -*-
 """
-Created on Tue May 22 08:47:53 2018
-
-@author: amity
+Question 10
+Practical Worksheet 2018-19
 """
 
 num = str(input("Enter number: "))
-l = [int(i) for i in num]
+l = [int(i) for i in num] #cant use arrays
 
 add = 0
 mul = 1
