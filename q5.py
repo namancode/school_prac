@@ -1,9 +1,8 @@
-# -*- coding: utf-8 -*-
 """
-Created on Fri May  4 13:23:42 2018
+Question 5
+Practical Worksheet 2018-19
+"""
 
-@author: amity
-"""
 n = int(input("What is the amount in Rupees? "))
 t = int(n/1000)
 n = n%1000
