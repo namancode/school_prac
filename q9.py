@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu May 10 13:30:44 2018
-
-@author: amity
+Question 9
+Practical Worksheet 2018-19
 """
 
 u = int(input("Units consumed: "))
