@@ -3,15 +3,15 @@ Question 10
 Practical Worksheet 2018-19
 """
 
-num = str(input("Enter number: "))
-l = [int(i) for i in num] #cant use arrays
+num = int(input("Enter number: "))
+l = 1
 
 add = 0
 mul = 1
-for s in range(0, len(l)):
-    if(s%2 == 0):
-        mul = mul * l[s]
+while(num%(10**(l-1)) != num):
+    if(l%2 == 0):
+        add += ((num%(10**l))-(num%(10**(l-1))))/(10**(l-1))
     else:
-        add = add + l[s]
-
+        mul *= ((num%(10**l))-(num%(10**(l-1))))/(10**(l-1))
+    l += 1        
 print("Sum of odd positioned digits:", add, "\nProduct of even positioned digits:", mul, "\nSum of above two results:", add+mul)
