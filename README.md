@@ -41,3 +41,8 @@ List of questions completed:
 - [ ] Question 32
 - [ ] Question 33
 - [ ] Question 34
+
+#### Section B
+| Header One     | Header Two     |
+| :------------- | :------------- |
+| - [ ] Q 1       | Item Two       |
