@@ -6,7 +6,7 @@ Current Collaborators to this repository are:
 * [Satvik Gupta](http://github.com/satvikg2002)
 
 List of questions completed:
-#### Section A
+#### Section A (Python)
 - [x] Question 1
 - [x] Question 2
 - [x] Question 3
@@ -42,7 +42,21 @@ List of questions completed:
 - [ ] Question 33
 - [ ] Question 34
 
-#### Section B
-| Header One     | Header Two     |
-| :------------- | :------------- |
-| - [ ] Q 1       | Item Two       |
+#### Section B (MySQL)
+- [ ] Question 1
+- [ ] Question 2
+- [ ] Question 3
+- [ ] Question 4
+- [ ] Question 5
+
+#### Section C (MongoDB)
+- [ ] Question 1
+- [ ] Question 2
+- [ ] Question 3
+- [ ] Question 4
+- [ ] Question 5
+- [ ] Question 6
+- [ ] Question 7
+- [ ] Question 8
+- [ ] Question 9
+- [ ] Question 10
