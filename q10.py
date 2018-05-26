@@ -3,15 +3,30 @@ Question 10
 Practical Worksheet 2018-19
 """
 
-num = int(input("Enter number: "))
-l = 1
+n = int(input("Enter number: "))
+a = 1
+m = n
+cnt = 0
+while(m>0):
+    cnt = cnt+1
+    m = m//10
+sum = 0
+prod = 1
 
-add = 0
-mul = 1
-while(num%(10**(l-1)) != num):
-    if(l%2 == 0):
-        add += ((num%(10**l))-(num%(10**(l-1))))/(10**(l-1))
-    else:
-        mul *= ((num%(10**l))-(num%(10**(l-1))))/(10**(l-1))
-    l += 1        
-print("Sum of odd positioned digits:", add, "\nProduct of even positioned digits:", mul, "\nSum of above two results:", add+mul)
+if cnt%2 == 0:   
+    while(n%(10**(a-1)) != n):
+        if(a%2 == 0):
+            sum = sum+((n%(10**a))-(n%(10**(a-1))))/(10**(a-1))
+        else:
+            prod = prod*((n%(10**a))-(n%(10**(a-1))))/(10**(a-1))
+        a = a+1
+else:
+    while(n%(10**(a-1)) != n):
+        if(a%2 == 0):
+            prod = prod*((n%(10**a))-(n%(10**(a-1))))/(10**(a-1))
+        else:
+            sum = sum+((n%(10**a))-(n%(10**(a-1))))/(10**(a-1))
+        a = a+1
+
+print("Sum of odd positioned digits:", int(sum), "\nProduct of even positioned digits:", int(prod),
+      "\nSum of above two results:", int(sum+prod))
