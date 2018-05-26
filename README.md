@@ -8,7 +8,7 @@ Current Collaborators to this repository are:
 List of questions completed:
 Section A | Section B | Section C
 --------- | --------- | ---------
-- [x] Question 1 
+- [x] Question 1 | |
 - [x] Question 2
 - [x] Question 3
 - [x] Question 4
