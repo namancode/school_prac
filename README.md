@@ -6,8 +6,9 @@ Current Collaborators to this repository are:
 * [Satvik Gupta](http://github.com/satvikg2002)
 
 List of questions completed:
-### Section A
-- [x] Question 1
+Section A | Section B | Section C
+--------- | --------- | ---------
+- [x] Question 1 
 - [x] Question 2
 - [x] Question 3
 - [x] Question 4
