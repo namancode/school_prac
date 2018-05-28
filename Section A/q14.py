@@ -4,20 +4,14 @@ Practical Worksheet 2018-19
 """
 
 num = int(input("Enter number to check: "))
+i, fin = 1, 0
 
-m = num
-l = 0
-while(m>0):
-    l += 1
-    m = m//10
+while(num%(10**(i-1)) != num):
+    n = ((num%(10**i))-(num%(10**(i-1))))/(10**(i-1))
+    fin = (fin + n)*10
+    i += 1
 
-rev = 0
-
-for i in range(l, 0, -1):
-    rev += ((num%(10**i) - num%(10**(i-1)))/(10**(i-1))) * (10**(l-i))
-
-
-if(int(rev) == num):
+if(int(fin/10) == num):
     print("It's a palindrome!")
 else:
-    print("It's not a palindrome")
+    print("It's not a palindrome!")
