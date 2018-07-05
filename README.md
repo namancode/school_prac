@@ -24,8 +24,8 @@ List of questions completed:
 - [x] Question 14
 - [x] Question 15
 - [x] Question 16
-- [ ] Question 17
-- [ ] Question 18
+- [x] Question 17
+- [x] Question 18
 - [ ] Question 19
 - [ ] Question 20
 - [ ] Question 21
