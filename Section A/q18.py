@@ -1,3 +1,8 @@
+"""
+Question 18
+Practical Worksheet 2018-19
+"""
+
 n = int(input("Enter number of terms: "))
 x = float(input("Enter x: "))
 s1, s2 = 0, 0
