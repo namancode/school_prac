@@ -27,7 +27,7 @@ List of questions completed:
 - [x] Question 17
 - [x] Question 18
 - [ ] Question 19
-- [ ] Question 20
+- [x] Question 20
 - [ ] Question 21
 - [ ] Question 22
 - [ ] Question 23
