@@ -18,6 +18,10 @@ def pascals_triangle(rows):
             row.append(combination(count, element))
         result.append(row)
     return result
-
+i=0
 for row in pascals_triangle(t):
-    print(row)
+    print(" "*((t*2)-i), end="")
+    i += 2
+    for x in row:
+        print(str(x), end="   ")
+    print("")
