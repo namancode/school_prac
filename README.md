@@ -26,10 +26,10 @@ List of questions completed:
 - [x] Question 16
 - [x] Question 17
 - [x] Question 18
-- [ ] Question 19
+- [x] Question 19
 - [x] Question 20
-- [ ] Question 21
-- [ ] Question 22
+- [x] Question 21
+- [x] Question 22
 - [ ] Question 23
 - [ ] Question 24
 - [ ] Question 25
