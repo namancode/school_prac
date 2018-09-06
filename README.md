@@ -31,8 +31,8 @@ List of questions completed:
 - [x] Question 20
 - [x] Question 21
 - [x] Question 22
-- [ ] Question 23
-- [ ] Question 24
+- [x] Question 23
+- [x] Question 24
 - [ ] Question 25
 - [ ] Question 26
 - [ ] Question 27
