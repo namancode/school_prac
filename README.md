@@ -62,3 +62,10 @@ List of questions completed:
 - [ ] Question 8
 - [ ] Question 9
 - [ ] Question 10
+
+
+Deleted Files:
+isItTrue = "Naman is a fag"
+ print("Question: ", isItTrue) 
+ x = bool(isItTrue)
+ print("Answer: ", x)
