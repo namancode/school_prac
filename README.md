@@ -65,7 +65,7 @@ List of questions completed:
 
 
 #### Deleted Files:
--isItTrue = "Naman is a fag"
--print("Question: ", isItTrue)
--x = bool(isItTrue)
--print("Answer: ", x)
+- isItTrue = "Naman is a fag"
+- print("Question: ", isItTrue)
+- x = bool(isItTrue)
+- print("Answer: ", x)
