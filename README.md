@@ -3,7 +3,6 @@ This is a repository of **solutions to the Practical Worksheet 2018-19** assigne
 
 Current Collaborators to this repository are:
 * [**Naman Kumar**](https://github.com/namancode)
-* [Dhruv Jain](https://github.com/arcanemagic)
 * [Satvik Gupta](https://github.com/satvikg2002)
 * [Kushagra Verma](https://github.com/kushagraVerma)
 
